@@ -1,4 +1,4 @@
-print("hello world!")
-print("name:Lorenzo Valdez") 
-print("course:BSIT") 
-print("interested in programming: mysql") 
+print ("Hello world!")
+print ("Name:Lorenzo Valdez") 
+print ("Course:BSIT") 
+print ("Interested in programming: mysql") 
