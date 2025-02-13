@@ -1,1 +1,4 @@
-("hello world!")
+print("hello world!")
+print("name:Lorenzo Valdez") 
+print("course:BSIT") 
+print("interested in programming: mysql") 
