@@ -1,4 +1,3 @@
-
 Name: Lorenzo Y. Valdez
 Course: BSIT
-Interests in programming: Mysql
+Interests in programming: MYSQL
