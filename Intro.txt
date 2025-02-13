@@ -1,3 +1,4 @@
-Lorenzo Y. Valdez
-BSIT
-Mysql
+
+Name: Lorenzo Y. Valdez
+Course: BSIT
+Interests in programming: Mysql
