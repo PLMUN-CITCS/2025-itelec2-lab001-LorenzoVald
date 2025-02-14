@@ -1,4 +1,4 @@
 Print("Hello world!") 
-Print("Name:Lorenzo Valdez") 
-Print("Course: BSIT") 
-print("Interests in Programming: MYSQL") 
+Print("Name: [Your full name]") 
+Print("Course: [Your course name]") 
+print("Interests in Programming: [Your interests]") 
